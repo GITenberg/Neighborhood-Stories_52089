@@ -1,0 +1,33 @@
+_repo: Neighborhood-Stories_52089
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gale, Zona
+    aliases:
+    - Breese, William Lleywelyn, Mrs.
+    - Breese, William Llywelyn, Mrs.
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '3531'
+    url: http://www.gutenberg.org/2009/agents/3531
+    wikipedia: http://en.wikipedia.org/wiki/Zona_Gale
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Middle West -- Fiction'
+- GITenberg
+tableOfContents: Preface -- A great tree -- Exit charity -- The time has come -- The
+  face of Friendship Village -- The flood -- The party -- The biggest business --
+  The prodigal guest -- Mr. Dombledon -- Human -- The homecoming.
+title: Neighborhood Stories
+url: http://www.gutenberg.org/ebooks/52089
